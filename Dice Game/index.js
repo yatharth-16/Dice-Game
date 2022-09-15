@@ -1,6 +1,4 @@
 
-
-
 var randomNumber1 = Math.floor(Math.random()*6)+1;
 var randomImageSource1 = "images/"+"dice"+randomNumber1+".png";
 
